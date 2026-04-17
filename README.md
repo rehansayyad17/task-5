@@ -7,9 +7,6 @@ This is a simple static website hosted using GitHub Pages.
 - Responsive design
 - Hosted for free using GitHub Pages
 
-## 🔗 Live Website
-https://yourusername.github.io
-
 ## 📁 Files Included
 - index.html
 - style.css
